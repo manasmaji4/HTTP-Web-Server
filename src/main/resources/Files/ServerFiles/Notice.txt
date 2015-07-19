@@ -1,0 +1,20 @@
+
+				--------------------------------
+				 Inspiration for the Web Server
+				--------------------------------
+								
+	There were many instances when the correct way to doing something was unknown(the syntax & how to do). 
+	The following websites have been the source of of help on numerous occurances (though code was never
+	lifted directly from anywhere). 
+	
+	1) http://www.jmarshall.com/easy/http/
+
+	2) http://docs.oracle.com/
+ 
+	3) http://www.mkyong.com/ 
+ 
+	4) http://stackoverflow.com/
+	
+	5) http://www.vogella.com/
+	
+	6) http://maven.apache.org/
